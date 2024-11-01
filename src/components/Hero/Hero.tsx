@@ -3,7 +3,7 @@ import Article from "./Article";
 
 const Hero = () => {
   return (
-    <div className="hero bg-neutral-100 min-h-max pt-20 px-16">
+    <div className="hero bg-neutral-100 min-h-max pt-20 px-16 pb-16">
       <figure className="flex justify-center px-4">
         <img
           src="https://topcoolest.com/img/1.jpg"
